@@ -47,16 +47,27 @@ This project implements an advanced image retrieval system for texture images us
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/sift-texture-retrieval.git
-   cd sift-texture-retrieval
+   git clone https://github.com/ahmedm0ssad/SIFT-Texture-Image-Retrieval.git
+   cd SIFT-Texture-Image-Retrieval
    ```
 
-2. Install required dependencies:
+2. **⚠️ IMPORTANT**: Unzip the images folder first:
+   ```bash
+   # On Windows
+   # Use the built-in File Explorer to extract images.zip
+   
+   # On macOS/Linux
+   unzip images.zip
+   ```
+
+3. Install required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
 ## 💻 Usage <a name="usage"></a>
+
+> **⚠️ IMPORTANT**: Make sure you have unzipped the `images.zip` file before proceeding. The code expects the texture images to be available in the `images/` directory with category subfolders.
 
 ### Jupyter Notebook <a name="jupyter-notebook"></a>
 
