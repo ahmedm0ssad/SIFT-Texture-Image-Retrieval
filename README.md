@@ -51,7 +51,9 @@ This project implements an advanced image retrieval system for texture images us
    cd SIFT-Texture-Image-Retrieval
    ```
 
-2. **⚠️ IMPORTANT**: Unzip the images folder first:
+2. **⚠️ IMPORTANT**: Obtain and prepare the texture images dataset:
+   - Download the `images.zip` file from the project owner (not included in repo due to size limits)
+   - Extract the zip file into the project root directory
    ```bash
    # On Windows
    # Use the built-in File Explorer to extract images.zip
@@ -119,6 +121,16 @@ The project uses a comprehensive texture dataset organized in different categori
 - and many more texture types
 
 Each category represents a specific texture pattern commonly found in natural and man-made materials.
+
+### Obtaining the Dataset
+
+Due to GitHub's file size limitations (100MB max), the full image dataset is not included in this repository. You can obtain the texture images in one of these ways:
+
+1. **Download from project owner**: Contact the project owner to get access to the `images.zip` file (approximately 377MB).
+
+2. **Use your own texture dataset**: You can use any texture dataset with a similar structure, organizing images in category subfolders.
+
+3. **Create sample data**: For testing purposes, you can create a small subset of texture images organized in category folders.
 
 ## 📈 Experimental Results <a name="experimental-results"></a>
 
