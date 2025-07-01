@@ -126,7 +126,7 @@ Each category represents a specific texture pattern commonly found in natural an
 
 Due to GitHub's file size limitations (100MB max), the full image dataset is not included in this repository. You can obtain the texture images in one of these ways:
 
-1. **Download from project owner**: Contact the project owner to get access to the `images.zip` file (approximately 377MB).
+1. **Download from project owner**: Contact the project owner to get access to the `images.zip` file (approximately 101MB).
 
 2. **Use your own texture dataset**: You can use any texture dataset with a similar structure, organizing images in category subfolders.
 
