@@ -69,7 +69,7 @@ This project implements an advanced image retrieval system for texture images us
 
 ## 💻 Usage <a name="usage"></a>
 
-> **⚠️ IMPORTANT**: Make sure you have unzipped the `images.zip` file before proceeding. The code expects the texture images to be available in the `images/` directory with category subfolders.
+> **⚠️ IMPORTANT**: Make sure you have unzipped the `images.zip` file before proceeding. The code expects the texture images to be available in the `images/` directory with category subfolders. And the link drive of the dataset -> https://drive.google.com/file/d/15_4SWSvH94t1uuha_BWWqNa67a0pdoe8/view?usp=sharing    
 
 ### Jupyter Notebook <a name="jupyter-notebook"></a>
 
